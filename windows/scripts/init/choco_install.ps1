@@ -11,7 +11,7 @@ choco install -y scala
 choco install -y sublimetext2
 choco install -y notepadplusplus
 choco install -y python
-choco install -y pycharm
+choco install -y pycharm-community
 choco install -y malwarebytes
 choco install -y adobereader
 choco install -y virtualbox
